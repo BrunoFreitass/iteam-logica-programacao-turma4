@@ -8,10 +8,10 @@ Leia o salário e classifique:
 
 | Salário | Faixa |
 |---|---|
-| até R$ 2.500 | Isento |
+| até R$ 2.500 | Isento  |
 | até R$ 5.000 | Faixa 1 |
 | até R$ 8.000 | Faixa 2 |
-| acima disso | Faixa 3 |
+| acima disso  | Faixa 3 |
 
 ## O que entregar nesta pasta
 
