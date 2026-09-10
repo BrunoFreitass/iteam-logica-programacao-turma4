@@ -120,4 +120,6 @@ Inicio
    // Parte 3.
    escreval("Média de horas da equipe: ", media:4:1, "h")
 
+   //final de tudo, obrigado professora, você foi demais !!!
 Fimalgoritmo
+
