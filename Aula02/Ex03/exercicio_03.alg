@@ -1,5 +1,6 @@
 algoritmo "Exercicio_03"
 var
+   //varieveis, como são numeros inteiros, funçao real
    numero, dobro: real
 inicio
    //Entrada de dados

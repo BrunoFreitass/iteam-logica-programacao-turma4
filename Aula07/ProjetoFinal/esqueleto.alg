@@ -26,14 +26,13 @@ var
    media : real
 
 Inicio
-   
+
    // Dados de entrada
    // Cada funcionario ocupa a MESMA posicao nos dois vetores.
    // nomes[0] e horas[0] sao da mesma pessoa (Ana), nomes[1] e
    // horas[1] da proxima pessoa (Bruno), e assim por diante.
    // horas guarda as horas trabalhadas por cada funcionario
    // num dia.
-
    nomes[0] <- "Ana"
    nomes[1] <- "Bruno"
    nomes[2] <- "Carla"
@@ -46,8 +45,7 @@ Inicio
    horas[3] <- 8
    horas[4] <- 7
 
-
-   // Parte 1
+      // Parte 1
    // Zere a variavel somaHoras aqui, porque no inicio ninguem
    // foi contado ainda. 
    somaHoras <- 0
@@ -88,7 +86,7 @@ Inicio
       senao
          se horas[i] = 8 entao
             produtividade <- "Dentro do esperado"
-         senao
+      senao
             produtividade <- "Acima do esperado"
          fimse
       fimse
@@ -105,7 +103,6 @@ Inicio
       // a produtividade que voce calculou acima. Por exemplo:
       // Ana - 9h trabalhadas - 1h extra - Acima do esperado
       escreval(nomes[i], " - ", horas[i], "h trabalhadas - ", horaExtra, "h extra - ", produtividade)
-
    fimpara
 
 

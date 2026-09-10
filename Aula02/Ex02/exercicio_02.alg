@@ -1,6 +1,7 @@
 algoritmo "Exercicio_02"
 var
-   nome: caractere
+   //variavel para ler o nome, tipo caractere
+   nome: caractere 
 inicio
    //Entrada de dados
    escreva("Digite seu nome: ")
